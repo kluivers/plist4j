@@ -1,0 +1,8 @@
+{
+	ListTitle = "My Bookmarks";
+	ListEntries = (
+		"http://joris.kluivers.nl/",
+		"http://joris.kluivers.nl/projects/",
+		"http://joris.kluivers.nl/projects/ribbit"
+	);
+}
